@@ -1,0 +1,14 @@
+.App {
+  max-width: 555px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+}
+
+.e-btn .e-btn-icon,
+.e-btn-group .e-btn-icon {
+  font-size: inherit;
+}
+.e-icons {
+  font-family: e-icons;
+}
